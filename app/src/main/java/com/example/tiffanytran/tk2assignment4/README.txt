@@ -1,0 +1,10 @@
+# TK2Assignment4
+
+#Kelly Hong ID: 79653861
+#Tiffany Tran ID: 82839610
+
+For the Super Mario Brothers game, little Mario will automatically move from right to left on the landscape orientation screen.  The user can click anywhere on the screen to make Mario jump, while there is a fireball button at the lower bottom-right corner so that the user can click on that button when Mario transforms to his FireMario form and he can shoot out fireballs.  There are 3 levels in total and the level number is displayed at the top middle of the screen.  The top right corner shows Mario’s 3 lives and the top left corner displays the total points Mario earns.  Each coin is worth 200 points, each super mushroom is worth 1000 points, and each fire flower is worth 1000 points.
+
+Little Mario can only transform into Super Mario in the beginning by getting a super mushroom.  Fire Mario can only be obtained when Mario is in his Super form.  If Fire Mario or Super Mario gets killed by touching an enemy, he will return back to his little Mario form.  The 3 enemies that will appear include Buzzy Beetle, Koopa Paratroopa, and Piranha Plant.  Piranha Plant will randomly pop up on the green pipe every few seconds, Buzzy Beetle will be walking on the ground, left and right, and Koopa Paratroopa will be moving back and forth.  Since Buzzy Beetle is immune to fireballs, the fireballs are coded to not do anything when it hits the beetles.
+
+Mario will die after all 3 of his lives are gone.  Mario gets killed if an enemy touches him.  The screen will display “Game Over!”  If Mario passes all 3 levels, the screen will display “You win!”  For the items in this game, if Mario passes through the coins, they will automatically disappear, and if Mario hits a yellow brick, it will “break”, or disappear as well.  The brown bricks are non-breakable.
